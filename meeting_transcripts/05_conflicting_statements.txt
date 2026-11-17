@@ -1,0 +1,6 @@
+Release Planning Meeting
+
+John: We will release on December 10.
+Sarah: The testing team can only complete validation by December 15.
+John: The release will still happen on December 10.
+Mike: In that case the application may go live before testing is completed.

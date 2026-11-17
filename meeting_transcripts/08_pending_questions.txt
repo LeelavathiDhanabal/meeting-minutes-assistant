@@ -1,0 +1,7 @@
+Sprint Review Meeting
+
+John: Should we support Android in the next release?
+Sarah: Not sure.
+Mike: We need to evaluate the effort.
+John: Can we complete security testing before release?
+Sarah: We don't know yet.

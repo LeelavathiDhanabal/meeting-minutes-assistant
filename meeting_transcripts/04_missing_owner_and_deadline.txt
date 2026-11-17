@@ -1,0 +1,5 @@
+Planning Meeting
+
+John: Someone should update the automation framework.
+Sarah: The security testing checklist also needs review.
+Mike: Agreed.

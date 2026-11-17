@@ -1,0 +1,8 @@
+Sprint Planning Meeting
+
+John: The customer dashboard will be released on December 15.
+Sarah: I will prepare the UI designs by December 5.
+Mike: I will complete API development by December 10.
+John: Great.
+Sarah: Mobile testing will start on December 11.
+John: Approved.

@@ -1,0 +1,5 @@
+Release Readiness Meeting
+
+John: The test reports should be prepared by Friday.
+Sarah: Agreed.
+Mike: We also need to update the deployment guide by Thursday.

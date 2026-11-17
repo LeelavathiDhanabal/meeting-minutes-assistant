@@ -1,0 +1,12 @@
+Quarterly Planning Meeting
+
+John: Dashboard release is targeted for December 15.
+Sarah: I will finish UI designs by December 5.
+Mike: I will complete API development.
+John: Someone should update the test automation framework.
+Sarah: We also need release notes before go-live.
+Mike: I believe go-live is December 10.
+John: No, release is December 15.
+Sarah: Should we support tablet devices?
+Mike: We need more discussion.
+John: Sarah or Mike can own release documentation.

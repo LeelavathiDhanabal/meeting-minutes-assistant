@@ -1,0 +1,6 @@
+Sprint Review Meeting
+
+John: Sarah will update the UI design.
+Sarah: Sure.
+Mike: I will finish the API integration.
+John: We should also prepare release notes.

@@ -1,0 +1,5 @@
+“Summarize the meeting in five bullet points.”
+“Extract all decisions and pending questions.”
+“Create a table of action items, owners, and deadlines.”
+“Identify conflicting statements or unclear commitments.”
+“Draft a follow-up email for the participants.”
